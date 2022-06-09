@@ -1,0 +1,22 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+   /* background-image: url('file:///D:\ASP.NET\InventoryBeginners\Images\maxresdefault-2-1.jpg');
+    margin:auto;
+    background-position:center center;
+    background-repeat:no-repeat;*/
+}
